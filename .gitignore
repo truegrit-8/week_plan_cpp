@@ -1,0 +1,7 @@
+# 忽略文件
+*.exe
+*.bin
+
+# 忽略文件夹
+#.vscode/
+build/
